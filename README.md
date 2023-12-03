@@ -8,11 +8,11 @@ Aim:
 3. Keep track of all the equipment and events
 
 Libraries Used:
-1. Tkinter
-2. Customtkinter
-3. OpenCV
-4. PIL
-5. mysql.connector
+1. Tkinter   [import tkinter as tk]
+2. Customtkinter [pip install customtkinter]
+3. OpenCV [pip install opencv-python]
+4. PIL [pip install Pillow]
+5. mysql.connector [pip install mysql-connector-python]
 
 Why the libraries:
 1. Tkinter: To create a interface for the ai code.
