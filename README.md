@@ -13,7 +13,11 @@ Libraries Used:
 3. OpenCV [pip install opencv-python]
 4. PIL [pip install Pillow]
 5. mysql.connector [pip install mysql-connector-python]
-
+6. pyttsx3 [pip install pyttsx3]
+7. face_recognition [pip install facerecognition]
+8. os
+9. json
+10. 
 Why the libraries:
 1. Tkinter: To create a interface for the ai code.
 2. Custom Tkinter: a bootstrap version of tkinter library for modern UI.
