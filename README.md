@@ -17,7 +17,9 @@ Libraries Used:
 7. face_recognition [pip install facerecognition]
 8. os
 9. json
-10. 
+10. matplotlib
+11. time
+
 Why the libraries:
 1. Tkinter: To create a interface for the ai code.
 2. Custom Tkinter: a bootstrap version of tkinter library for modern UI.
